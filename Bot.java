@@ -1,4 +1,4 @@
-public class Bot {
+public class Bot extends Alive {
    //position info
    
    //cargo
